@@ -1,0 +1,6 @@
+{
+  "name": "AuraMind – Mental Clarity & Thought Declutter",
+  "description": "Declutter mental chaos, transform overwhelmed thoughts into micro-actions, solve daily challenges with cognitive reframing, and sustain single-task focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
